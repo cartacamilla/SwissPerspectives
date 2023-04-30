@@ -20,7 +20,7 @@ What are the advantages of a 2-column CV format [1](https://www.indeed.com/caree
 
 On the other hand, this layout can be unsuitable for ATS (Applicant Tracking Systems), which are softwares used to scan applications automatically. Moreover, depending on the HR representative, some old-school HR representatives might have a preference for the traditional look. 
 
-Summing up, it really seems to depend on personal preference, but there is a clear trend towards 2-column formats, at least on platforms like [Canva](canva.com). For some issues like going through ATS, you can google "ATS friendly 2 column CV templates" or refer to a resume-building website like [enancv](https://enhancv.com/pricing/). There are also online scanners (i.e. [ResumeWorded](https://resumeworded.com/resume-scanner)) that should tell you if your CV would pass ATS scans and other metrics.
+Summing up, it really seems to depend on personal preference, but there is a clear trend towards 2-column formats, at least on platforms like [Canva](https://canva.com). For some issues like going through ATS, you can google "ATS friendly 2 column CV templates" or refer to a resume-building website like [enancv](https://enhancv.com/pricing/). There are also online scanners (i.e. [ResumeWorded](https://resumeworded.com/resume-scanner)) that should tell you if your CV would pass ATS scans and other metrics.
 
 # Key-points of an Effective CV
 
